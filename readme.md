@@ -4,7 +4,7 @@
 
 - This is the main repository structure with live demo for  this projects and code done.
 
-- Draw your things here  [Sticky Drawings]((https://editor.method.ac) Online
+- Draw your things here  [Sticky Drawings](https://editor.method.ac) Online
 
 
 ## Acknowledgements
