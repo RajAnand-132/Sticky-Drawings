@@ -4,7 +4,13 @@
 
 - This is the main repository structure with live demo for  this projects and code done.
 
-- Draw your things here  [Sticky Drawings](https://editor.method.ac) Online
+- Draw your things here  [Sticky Drawings](https://editor.method.ac) Main Site.
+- Git hosted :- 
+- Rules:-
+- 1. Open file and create new document.
+- 2. Start drawing
+- 3. If you want to change page the first select the size the again open new document.
+Give a try here [Sticky Drawings](https://rajanand-132.github.io/Sticky-Drawings/src/)
 
 
 ## Acknowledgements
